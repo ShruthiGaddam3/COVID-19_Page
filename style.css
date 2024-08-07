@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.card-container{
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+    border: solid;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 5px;
+}
+.card-container-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: normal;
+    padding-top: 18px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+.header-container{
+    margin: 15px;
+}
+.card-container-button{
+    border-width: 0px;
+    border-radius: 10px;
+    background-color: aqua;
+    height: 30px;
+    width: 120px;
+    font-family: "Roboto";
+}
+.card-image{
+    padding: 15px;
+}
+.card2-container{
+    background-color: rgb(164, 189, 209);
+    height: 120px;
+    width: 520px;
+    background-size: cover;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 10px;
+    margin: 5px;
+}
+.card2-container-image{
+    height: 80px;
+    width: 60px;
+    padding-top: 20px;
+}
+.card2-main-heading{
+    font-size: 20px;
+    font-family: "Roboto";
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+.card2-paragraph{
+    font-size: 15px;
+    font-family: "Roboto";
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-bottom: 0px;
+}
+.Symptoms-heading{
+    font-family: "Roboto";
+    font-size: 24px;
+    padding: 5px;
+    margin: 10px;
+}
+.symptoms-item-container1{
+    background-color: rgb(10, 128, 10);
+    border-radius: 10px;
+    height: 130px;
+    width: 150px;
+    margin:12px;
+    padding: 30px;
+}
+.symptoms-item-container2{
+    background-color: rgb(160, 9, 135);
+    border-radius: 10px;
+    height: 130px;
+    width: 150px;
+    margin:12px;
+    padding: 30px;
+}
+.symptoms-item-container3{
+    background-color: rgb(42, 56, 136);
+    border-radius: 10px;
+    height: 130px;
+    width: 150px;
+    margin:12px;
+    padding: 30px;
+}
+.symptoms-text{
+    color: white;
+    padding: 5px;
+}
+.videos-container{
+    background-color: rgb(239, 198, 229);
+    border-radius: 10px;  
+    padding: 15px;
+    margin: 8px;
+    height: 140px;
+     width: 520px;
+}
+.videos-main-heading{
+    font-family: "Roboto";
+    font-size: 21px;
+}
+.videos-image{
+    width: 120px;
+    height: 100px;
+    padding: 19px;
+}
+.videos-main-paragraph{
+  font-size: 14px;
+  font-family: "Roboto";  
+}
+.videos-button{
+    background-color: rgb(6, 49, 86);
+    color: aliceblue;
+    border-radius: 8px;
+    border-width: 0px;
+    width: 120px; 
+    height: 30px;
+}
+.end-paragraph{
+    text-align: start;
+    margin: 10px;
+    font-family: "Roboto";
+    padding-left: 180px;
+}
+.end-paragraph2{
+    text-align: start;
+    font-family: "Roboto";
+    margin: 10px;
+    text-decoration: underline;
+    padding-left: 80px;
+}
